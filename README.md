@@ -1,6 +1,6 @@
 # Jalwa Game - Online Gaming Platform
 
-![Jalwa Game Logo](assets/logo.png)
+![Jalwa Game Logo](https://jalwaangame.com/wp-content/uploads/2025/03/jalwa-game-login-768x768.png)
 
 ## 🎮 About Jalwa Game
 
